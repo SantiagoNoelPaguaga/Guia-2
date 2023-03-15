@@ -26,7 +26,6 @@ public class Ejercicio5 {
         System.out.println("El doble del número es: " + (numero * 2));
         System.out.println("El triple del número es: " + (numero * 3));
         System.out.println("La raíz cuadrada del número es: " + Math.sqrt(numero));
-        System.out.println(Math.floor(Math.random()*100));
     }
     
 }
